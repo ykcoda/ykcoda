@@ -1,6 +1,4 @@
 # 👋 Hi there
-
-## 🚀 
 I started as an Infrastructure engineer, transitioned into Cloud/DevOps, and now focus on building production-grade AI systems.
 
 I specialize in:
