@@ -28,6 +28,7 @@ I enjoy turning AI prototypes into secure, scalable, production-ready platforms.
 **Languages**
 - Python
 
+
 **Backend & APIs**
 - FastAPI
 - REST APIs
@@ -36,6 +37,8 @@ I enjoy turning AI prototypes into secure, scalable, production-ready platforms.
 **AI & LLM**
 - RAG architectures
 - LLM integrations
+- Langchain
+- Langsmith 
 - Agent tool orchestration (MCP)
 
 **DevOps & Cloud**
