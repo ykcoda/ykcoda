@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-## 🚀 About Me
-I started my career in Infrastructure engineering, transitioned into Cloud/DevOps, and now focus on building production-grade AI systems.
+## 🚀 
+I started as an Infrastructure engineer, transitioned into Cloud/DevOps, and now focus on building production-grade AI systems.
 
 I specialize in:
 - Designing and deploying scalable AI applications powered by LLMs
