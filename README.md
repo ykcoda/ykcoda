@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm ykcoda
 
 ## 🚀 About Me
 I started my career in Infrastructure engineering, transitioned into Cloud/DevOps, and now focus on building production-grade AI systems.
